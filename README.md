@@ -12,11 +12,11 @@ Predicts whether a loan applicant is a good or bad credit risk using the German 
 ## Results
 | Model | CV ROC-AUC |
 |---|---|
-| Logistic Regression | 0.xx |
-| Random Forest | 0.xx |
-| Gradient Boosting (tuned) | 0.xx |
+| Logistic Regression | 0.78 |
+| Random Forest | 0.79 |
+| Gradient Boosting (tuned) | 0.78 |
 
-Test ROC-AUC: **0.xx**
+Test ROC-AUC: **0.79**
 
 ![Feature importance](outputs/feature_importance.png)
 
